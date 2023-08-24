@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/saikatM333/handyman/static/css/main.e707bf0a.css",
+    "main.js": "/saikatM333/handyman/static/js/main.f4114670.js",
+    "static/js/787.7a96caec.chunk.js": "/saikatM333/handyman/static/js/787.7a96caec.chunk.js",
+    "static/media/build.jpg": "/saikatM333/handyman/static/media/build.79e51201448fe9d2acfa.jpg",
+    "static/media/bio-pic.png": "/saikatM333/handyman/static/media/bio-pic.61d96f14c73998293c37.png",
+    "static/media/plumber.jpg": "/saikatM333/handyman/static/media/plumber.34de506df1ed033be911.jpg",
+    "static/media/mobile1.jpg": "/saikatM333/handyman/static/media/mobile1.78ad7da46c6a88cd75b9.jpg",
+    "static/media/bg1.jpg": "/saikatM333/handyman/static/media/bg1.1638b73428a3c14d09c5.jpg",
+    "static/media/logo.svg": "/saikatM333/handyman/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/saikatM333/handyman/index.html",
+    "main.e707bf0a.css.map": "/saikatM333/handyman/static/css/main.e707bf0a.css.map",
+    "main.f4114670.js.map": "/saikatM333/handyman/static/js/main.f4114670.js.map",
+    "787.7a96caec.chunk.js.map": "/saikatM333/handyman/static/js/787.7a96caec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e707bf0a.css",
+    "static/js/main.f4114670.js"
+  ]
+}
